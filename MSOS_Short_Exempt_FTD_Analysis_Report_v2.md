@@ -149,7 +149,8 @@ Comparing full calendar years provides the most accurate picture:
 
 While comparing partial 2020 to 2025 yields a 21x ratio, this overstates the trend due to the limited 2020 sample. **The accurate statement is that short exempt usage has increased nearly 4x over four full years.**
 
-![Annual Short Exempt Trend](msos_analysis_charts.png)
+<img width="2383" height="2984" alt="msos_analysis_charts" src="https://github.com/user-attachments/assets/37859aa9-8150-4aed-ad01-dbd474d2e8a3" />
+
 *Figure 1: Short exempt volume and percentage trends over time*
 
 ### 3.3 Extreme Short Exempt Days
@@ -215,7 +216,8 @@ The following table shows the 20 most extreme short exempt days:
 
 **35 days had FTDs exceeding 100,000 shares.** The November 18, 2024 event alone represented 12% of that day's entire trading volume in cumulative outstanding failures.
 
-![FTD Spike Analysis](msos_ftd_analysis.png)
+<img width="2082" height="1184" alt="msos_ftd_analysis" src="https://github.com/user-attachments/assets/5de94ad2-50cc-443e-991c-268c03639ae4" />
+
 *Figure 2: FTD magnitude and notional value over time*
 
 ### 4.3 Monthly FTD Patterns
@@ -256,7 +258,8 @@ We identified the top 5% of short exempt days (25 days with SE > 85,212 shares) 
 
 *Note: Sample sizes vary due to weekends/holidays and data availability.*
 
-![Temporal Analysis](msos_temporal_analysis.png)
+<img width="2381" height="2985" alt="msos_temporal_analysis" src="https://github.com/user-attachments/assets/5f5f157c-3774-4e1f-9b90-052383e10039" />
+
 *Figure 3: Temporal relationship between SE spikes and FTDs*
 
 ### 5.2 Event Study: Short Exempt Before FTD Spikes
@@ -294,7 +297,8 @@ To quantify the predictive relationship, we calculated conditional probabilities
 
 **At T+10, days following high short exempt volume are more than twice as likely to experience high FTDs compared to days following low short exempt volume.**
 
-![Summary of Findings](msos_summary_findings.png)
+<img width="1950" height="963" alt="msos_summary_findings" src="https://github.com/user-attachments/assets/15d5831e-25a7-4995-8d74-2b5962eda3ce" />
+
 *Figure 4: Statistical summary of SE-FTD relationship*
 
 ### 5.4 Confounding Factor Analysis: Volume
@@ -538,19 +542,24 @@ No. The evidence is consistent with potential abuse, but definitive conclusions 
 ## Appendix A: Visualizations
 
 ### Figure 1: Short Exempt and FTD Overview
-![Overview Charts](msos_analysis_charts.png)
+<img width="2383" height="2984" alt="msos_analysis_charts" src="https://github.com/user-attachments/assets/a85db442-1287-4ef9-b3f9-2d98c990b21f" />
+
 
 ### Figure 2: Detailed Analysis
-![Detailed Charts](msos_analysis_charts_2.png)
+<img width="2384" height="1784" alt="msos_analysis_charts_2" src="https://github.com/user-attachments/assets/e0e6cd09-bbea-4ba9-8b0e-9654bf6b626f" />
+
 
 ### Figure 3: FTD Magnitude Analysis
-![FTD Analysis](msos_ftd_analysis.png)
+<img width="2082" height="1184" alt="msos_ftd_analysis" src="https://github.com/user-attachments/assets/ee511376-7725-460d-9426-cbc3378a154e" />
+
 
 ### Figure 4: Temporal Relationship Analysis
-![Temporal Analysis](msos_temporal_analysis.png)
+<img width="2381" height="2985" alt="msos_temporal_analysis" src="https://github.com/user-attachments/assets/dfc27575-d382-4557-840b-7fe3d2e57a47" />
+
 
 ### Figure 5: Statistical Summary
-![Summary Findings](msos_summary_findings.png)
+<img width="1950" height="963" alt="msos_summary_findings" src="https://github.com/user-attachments/assets/8058f116-2f75-4658-ad59-519c3fe5ca4b" />
+
 
 ---
 
