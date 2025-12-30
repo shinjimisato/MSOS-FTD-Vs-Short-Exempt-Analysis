@@ -131,7 +131,8 @@ The most alarming finding is the systematic increase in short exempt usage over 
 
 **Short exempt as a percentage of total volume has increased 21x from 2020 to 2025.**
 
-![Annual Short Exempt Trend](msos_analysis_charts.png)
+![Annual Short Exempt Trend](msos_analysis_charts.png)<img width="2383" height="2984" alt="msos_analysis_charts" src="https://github.com/user-attachments/assets/eef76609-56a0-40b4-a74a-aaad0002c349" />
+
 *Figure 1: Short exempt volume and percentage trends over time*
 
 ### 3.3 Extreme Short Exempt Days
@@ -236,7 +237,8 @@ We identified the top 5% of short exempt days (25 days with SE > 85,212 shares) 
 
 **Finding:** FTDs are 3-4 times higher than baseline at the T+3 and T+4 window following short exempt spikes.
 
-![Temporal Analysis](msos_temporal_analysis.png)
+<img width="2381" height="2985" alt="msos_temporal_analysis" src="https://github.com/user-attachments/assets/c4799516-d731-43d8-aa86-480bca4f2c45" />
+
 *Figure 3: Temporal relationship between SE spikes and FTDs*
 
 ### 5.2 Event Study: Short Exempt Before FTD Spikes
@@ -274,7 +276,8 @@ To quantify the predictive relationship, we calculated conditional probabilities
 
 **At T+10, days following high short exempt volume are more than twice as likely to experience high FTDs compared to days following low short exempt volume.**
 
-![Summary of Findings](msos_summary_findings.png)
+<img width="1950" height="963" alt="msos_summary_findings" src="https://github.com/user-attachments/assets/95dd78ed-35a6-438a-a9d0-7958f9b2023d" />
+
 *Figure 4: Statistical summary of SE-FTD relationship*
 
 ---
@@ -495,19 +498,24 @@ The evidence is consistent with abuse of the short exempt privilege, though defi
 ## Appendix: Visualizations
 
 ### Figure 1: Short Exempt and FTD Overview
-![Overview Charts](msos_analysis_charts.png)
+<img width="2383" height="2984" alt="msos_analysis_charts" src="https://github.com/user-attachments/assets/0797adc6-a714-4133-be40-475a00a3d2b5" />
+
 
 ### Figure 2: Detailed Analysis
-![Detailed Charts](msos_analysis_charts_2.png)
+<img width="2384" height="1784" alt="msos_analysis_charts_2" src="https://github.com/user-attachments/assets/b7068299-9f89-4a8b-967c-54eec3d8c3a9" />
+
 
 ### Figure 3: FTD Magnitude Analysis
-![FTD Analysis](msos_ftd_analysis.png)
+<img width="2082" height="1184" alt="msos_ftd_analysis" src="https://github.com/user-attachments/assets/8f37a311-77d5-4498-931f-9dc3b3d29a0d" />
+
 
 ### Figure 4: Temporal Relationship Analysis
-![Temporal Analysis](msos_temporal_analysis.png)
+<img width="2381" height="2985" alt="msos_temporal_analysis" src="https://github.com/user-attachments/assets/781501c0-373e-4a68-98be-c34233a60d73" />
+
 
 ### Figure 5: Statistical Summary
-![Summary Findings](msos_summary_findings.png)
+<img width="1950" height="963" alt="msos_summary_findings" src="https://github.com/user-attachments/assets/dc6c0ca2-bce1-4292-8d38-393f46036cf6" />
+
 
 ---
 
